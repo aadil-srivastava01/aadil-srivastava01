@@ -9,9 +9,6 @@ I am currently working as Senior Machine Learning Engineer(Computer Vision)at [W
 <p>
     <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=aadil-srivastava01&show_icons=true&theme=midnight-purple">
  <img height = 530 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
-
-    
-    
   
 </p>
 <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil-srivastava01&show_icons=true&theme=radical"/>
@@ -26,8 +23,8 @@ I am currently working as Senior Machine Learning Engineer(Computer Vision)at [W
 
 ## More About Me
 
-<a href="https://stackoverflow.com/users/8495644/aadil-srivastava?tab=summary"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
+<a href="https://stackoverflow.com/users/8495644/aadil-srivastava?tab=summary"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" height="50px" /></a>
 
-<a href="https://community.wandb.ai/u/aadil/activity"><img src="https://aws1.discourse-cdn.com/business7/uploads/wandb/original/1X/ccd96d8b70fea76e45d6854233953022b71628c1.png" width="150" height="20" /></a>
+<a href="https://community.wandb.ai/u/aadil/activity"><img src="https://aws1.discourse-cdn.com/business7/uploads/wandb/original/1X/ccd96d8b70fea76e45d6854233953022b71628c1.png" width="145px" height="20px" style="margin-left:8px"/></a>
 
 
