@@ -1,31 +1,10 @@
-<!--
-**aadil-srivastava01/aadil-srivastava01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # <p align="center"> Hi there 👋, I am Aadil Srivastava </p>
 </hr>
 
 ### <p align="center"> A Senior Software Engineer 💿🧑🏻‍🔧 & a lifelong learner 🧑🏻‍🏫 </p>
 
-I am currently working as Senior Machine Learning Engineer(Computer Vision)at [Wobot Intelligence](https://wobot.ai/). 
+I am currently working as Senior Machine Learning Engineer(Computer Vision)at [Wobot Intelligence](https://wobot.ai/). As <b>Dr. Fei Fei Li</b>. once said <I>"Cameras are everywhere, but they don't alert when child is drowning in swimming pool</I>. We are trying to solve such problems by powering up the cameras and trying to make this world a better & a little more safer place.
 
-
-
-- 🌱 I’m currently learning <b> Flutter </b>
-- 👯 I’m looking to collaborate on <b> Flutter based Projects </b>
-- 💬 Ask me about <b>Flutter, HTML5, Javascript, CSS3, Angular, Node.JS, MongoDB</b>
-- 📫 How to reach me: <b>Connect to me via Email [Aadil Srivastava](mailto:aadil.srivastava01@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans)</b>
-- ⚡ Fun fact: <b> I love to play games and listen to music </b>
 
 <p>
     <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=aadil-srivastava01&show_icons=true&theme=midnight-purple">
@@ -36,5 +15,16 @@ I am currently working as Senior Machine Learning Engineer(Computer Vision)at [W
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/aman-srivastava-973297199/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/aadil-srivastava-788442139/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/AadilSrivastava"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="mailto:aadil.srivastava01@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+
+
+
+## More About Me
+
+<a href="https://stackoverflow.com/users/8495644/aadil-srivastava?tab=summary"><img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png"/></a>
+
+<a href="https://community.wandb.ai/u/aadil/activity"><img src="https://aws1.discourse-cdn.com/business7/uploads/wandb/original/1X/ccd96d8b70fea76e45d6854233953022b71628c1.png" width="150" height="20" /></a>
+
 
