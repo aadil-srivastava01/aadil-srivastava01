@@ -8,7 +8,7 @@ I am currently working as Senior Machine Learning Engineer(Computer Vision)at [W
 
 <p>
     <img height=250 width = 500 src="https://github-readme-stats.vercel.app/api?username=aadil-srivastava01&show_icons=true&theme=midnight-purple">
-   <img height = 530 width= 500 align = right src = "https://user-images.githubusercontent.com/13318820/174430661-0500bf1c-bce1-4ff0-b313-66547fd1d8c5.gif">
+ <img height = 530 width= 300 align = right src = "https://user-images.githubusercontent.com/50004633/134461687-7281df45-15a4-47dd-8df4-15a2319d2001.gif">
 
     
     
