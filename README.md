@@ -3,7 +3,7 @@
 
 ### <p align="center"> A Senior Software Engineer 💿🧑🏻‍🔧 & a lifelong learner 🧑🏻‍🏫 </p>
 
-I am currently working as Senior Machine Learning Engineer(Computer Vision)at [Wobot Intelligence](https://wobot.ai/). As <b>Dr. Fei Fei Li</b>. once said <I>"Cameras are everywhere, but they don't alert when child is drowning in swimming pool</I>. We are trying to solve such problems by powering up the cameras and trying to make this world a better & a little more safer place.
+I am currently working as Senior Machine Learning Engineer(Computer Vision)at [Wobot Intelligence](https://wobot.ai/). As <b>Dr. Fei Fei Li</b>. once said <I>"Cameras are everywhere, but they don't alert when child is drowning in swimming pool"</I>. We are trying to solve such problems by powering up the cameras and trying to make this world a better & a little more safer place.
 
 
 <p>
